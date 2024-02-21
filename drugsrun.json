@@ -1,5 +1,5 @@
 {
     "version": "1.0.1",
     "status": "release",
-    "changeLog": "Kleine Update aand config [SellTime is nu aanpasbaar] en Kleine Bug gefixt!"
+    "changelogs": "Kleine Update aand config [SellTime is nu aanpasbaar] en Kleine Bug gefixt!"
 }
